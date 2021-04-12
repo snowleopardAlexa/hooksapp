@@ -13,4 +13,4 @@ const toggle = () => {
 }
 
 
-export default useTogggle;
+export default useToggle;
