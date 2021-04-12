@@ -4,6 +4,7 @@ import CounterHooks from './CounterHooks';
 import Toggler from './Toggler';
 import FormHooks from './FormHooks';
 import FormInputHooks from './FormInputHooks';
+import Clicker from './Clicker';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Toggler />
       <FormHooks />
       <FormInputHooks />
+      <Clicker />
     </div>
   );
 }
